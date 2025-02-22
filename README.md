@@ -1,3 +1,8 @@
+![rw](https://github.com/user-attachments/assets/81d98925-8da2-4d1d-a68f-ecfc0238d69e)
+
+
+
+
 # Writing-score-vs-Statistic-score
 This project explores the relationship between students' writing scores and statistics scores using data visualization techniques. The uploaded files include scripts and datasets that allow users to analyze and interpret patterns in student performance.
 

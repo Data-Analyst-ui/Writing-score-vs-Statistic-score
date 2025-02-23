@@ -18,3 +18,7 @@ Libraries: Pandas, Matplotlib, Seaborn, etc. (if applicable)
 Clone the repository.
 Run the script to visualize the data.
 Interpret the graphs to understand score relationships.
+
+## For more information 
+Contact: +2547-43729799
+Email: peterndung676@gmail.com
